@@ -1,8 +1,0 @@
-# Sovereign-Talent-Engine Ignore List
-people.db
-*.sqlite3
-__pycache__/
-*.pyc
-.env
-venv/
-.DS_Store
